@@ -11,3 +11,4 @@ parrafito
 $$f = lalas$$
 
 ![imagen de gato](https://images.theconversation.com/files/651621/original/file-20250226-32-jxjhmy.jpg)
+![imagen de gato](./gato.jpg)
